@@ -18,7 +18,7 @@ const RotateComponent = () => {
         </button>
 
         <div style={{rotate: rotateDeg + "deg" }}>
-            ======
+            ⬅
         </div>
         
     </div>
